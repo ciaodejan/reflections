@@ -28,3 +28,5 @@ It’s a new commit with all the changes from the two branches combined together
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Automatic merging doesn’t require manual editing to decide what changes need to be added or deleted but manual merges are essential to resolve conflicts when they occur.
