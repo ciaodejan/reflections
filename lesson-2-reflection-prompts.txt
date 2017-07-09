@@ -19,6 +19,8 @@ When there’s a need to keep different modified versions, for example a version
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams show each commit’s parent and visualize commits that are reachable from one branch and commits that are unreachable.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
