@@ -24,5 +24,7 @@ Diagrams show each commit’s parent and visualize commits that are reachable fr
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+It’s a new commit with all the changes from the two branches combined together. It’s represented in the diagram as a commit with the last commit of each branch as parents since the two branches are now merged into a single one.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
