@@ -19,7 +19,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It is possible to make changes locally while other changes are being made 
+    on the remote repository simultaneously.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
